@@ -1,4 +1,2 @@
 com/springboot_ex/Application.java
  com.springboot_ex.Application
-com/springboot_ex/web/HelloController.java
- com.springboot_ex.web.HelloController
